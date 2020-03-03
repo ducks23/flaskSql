@@ -1,3 +1,2 @@
 # flaskSql
-# flaskSql
-# flaskSql
+# just practicing with flask
